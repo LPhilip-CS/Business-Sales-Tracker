@@ -1,4 +1,4 @@
-# Pizza Sales Tracker
+# Pizza Sales Tracker 🍕
 In this project, I showcase my skills in data analysis with a focus on PIZZA sales. Using SQL, I've cleaned and explored pizza sales data, extracting valuable insights into trends and patterns.
 In Tableau, where I've transformed raw data into engaging visualizations that tell the story of pizza sales dynamics. 
 
