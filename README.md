@@ -46,7 +46,7 @@ Visualization:
 - Run the 'ExploratoryAnalysis.sql' file to view the exploratory data analysis on pizza sales.
 
 ## Working in Tableau:
-- Navigate the 'Pizza Sales Tracker.twbx' file to interact with dynamic charts and graphs.
+- Navigate the 'Business Sales Tracker.twbx' file to interact with dynamic charts and graphs.
 - Utilize Tableau functions and tools to conduct in-depth analysis (filter through dates and different categories).
 - Effectively convey findings through visual representation and derive meaningful insights and conclusions.
   
