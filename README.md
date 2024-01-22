@@ -49,6 +49,11 @@ Visualization:
 - Navigate the 'Business Sales Tracker.twbx' file to interact with dynamic charts and graphs.
 - Utilize Tableau functions and tools to conduct in-depth analysis (filter through dates and different categories).
 - Effectively convey findings through visual representation and derive meaningful insights and conclusions.
+
+[LINK](https://public.tableau.com/app/profile/l.philip/viz/BusinessSalesTracker/HomeDashboard)
+![Home Dashboard](https://github.com/LPhilip-CS/Business-Sales-Tracker/assets/98559773/9bfecad6-4c7e-4870-9b09-bb86a4bcfc12)
+![Best   Worst Dashboard](https://github.com/LPhilip-CS/Business-Sales-Tracker/assets/98559773/33ce8e8e-c877-44bc-94e6-a6db9bb6cdcf)
+
   
 ## Feedback and Support:
 - Provide your feedback, and suggestions, or report any issues.
