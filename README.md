@@ -1,4 +1,7 @@
 # Business Sales Tracker 🍕
+
+![Screenshot 2024-01-16 165620](https://github.com/LPhilip-CS/Business-Sales-Tracker/assets/98559773/124765ef-7123-4a4a-894a-7f2bbdf1c0ad)
+
 In this project, I showcase my skills in data analysis with a focus on PIZZA sales. The primary aim of this project is to conduct an in-depth analysis of sales data to gain valuable insights into things like performance and identify trends to make improved data-driven business decisions. 
 I've cleaned and explored pizza sales data using SQL, extracting valuable insights into trends and patterns.
 In Tableau, where I've transformed raw data into engaging visualizations that tell the story of pizza sales dynamics. 
